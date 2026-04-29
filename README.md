@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kholoud Ibrahim
+# 👋 Hi, I'm Kholoud Ahmed
 
 I'm a Master's student in Computer Science (CPS2 at Université Jean Monnet).  
 Passionate about software development, automation, and AI-powered systems.
