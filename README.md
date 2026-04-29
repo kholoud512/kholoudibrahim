@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kholoud Ahmed
 
-I'm a Master's student in Computer Science (CPS2 at Université Jean Monnet).  
+I'm a Master's student in Computer Science (CPS2 at Université Jean Monnet and Ecole des Mines).  
 Passionate about software development, automation, and AI-powered systems.
 
 #How to Reach Me
